@@ -1,0 +1,97 @@
+https://github.com/bitnykk/rl.git
+
+WHAT IS RL FOR AO
+
+It's a set of customizable scriptbase for Anarchy Online.
+Its intend is to help Raid Leaders to communicate fast & efficiently towards raid members.
+
+HOW TO INSTALL
+
+Once the archive is downloaded, extract into your AO client "script" folder.
+It could be at same location than your AO client executable.
+
+But it could also be under system's "Users" tree folder, e.g. within "Appdata/Local".
+Search for a Funcom folder and downer inside, for the correct client ID folder.
+
+As soon you located the "script" folder your AO client uses, unpack the archive.
+You should obtain this README, a file names "rl" and a folder named "rlfiles".
+
+HOW TO USE
+
+If installed correctly, you can use it in any ingame channel.
+It could be raidbot, raid channel, team channel, org channel, vicinity, etc.
+
+You just type exactly /rl followed by a space and then 3 letters for the message part.
+Example : /rl tes
+
+HOW DOES IT WORK
+
+The "rl" script loads at upper command, which shows ingame the text of file named (e.g.) "tes" in "rlfiles" folder.
+That way, you can have as many files in "rlfiles" folder as you need and load them very easily in no time !
+Just keeping naming them with 3 letters so the final command is always as simple as : /rl 123
+
+HOW TO CUSTOMIZE
+
+You can edit any file into "rlfiles" to modify the shown text at will.
+
+You also can add any new file into that folder to cover another missing need :
+Just create a new 3 letters named textfile (without .txt extention) in folder 
+Type the text you need in it, & there you go !
+
+
+ALL FILES PROVIDED
+
+Here are the grouped lists of the files provided and their intented use.
+
+	For all raids (generic) :
+		buf : advices all raid to buff up
+		sto : ask raider(s) to stop all moves
+		wai : require raider(s) to pause all dmg
+		add : attracts attention on add(s) kill
+		ass : recall to use assist macro (done before)
+		lmn : request crat(s) to mezz in emergency
+		rem : so all close & get away from remains
+		pdd : push for damage dealing to fasten kill
+
+	For Alien Play Fields :
+		coc : when nobody hits a cocoon trapping someone
+		fen : remind how to not die passing a fence
+		42k : memo for how to speak with entrance NPC
+		pat : for how to deal with Patrollers
+		hac : forbidding the kill/aggro of Hacker
+		13n : explanation of 13/north boss
+		28w : guide to kill the 28/west boss
+		35e : recall for the 35/east bosses
+		42a : quick tips for the final AC boss
+		see : to stop seeker hit & ask snare
+
+	For Pandemonium :
+		pin : alert to kill pink (healer) down first
+		ups : sync the raid to go upstairs with tank
+		tnh : order to go at TNH's feet and off bridge
+		ref : reflect time on Beast aka pause the damage
+	
+	For 12 men :
+		kee : awakes the keeper forgetting to cast CoTJ on LH
+		mor : easy trick to remove the RH morphs in siderooms
+		xan : last boss centerization, turret kill & heal spoil
+
+	For Biodome :
+		doo : gather people at door so nobody enters & die
+		hud : instructions to wear the hud and enter
+		bio : explains the main boss/turret mechanics
+		
+	For Mercenaries :
+		bri : set the bridge as meet point for all raid
+		ota : says Otacustes is up, Mercs soon following
+		ian : warns low HP that Ian can AOE stun and nuke
+		
+	For Inner Sanctuum :
+		is1 : how to pop the 1st floor door
+		is2 : for the 2nd floor key boss
+		is3 : indicates not to mess around in 3rd floor
+		hez : specific orders for Hezak the Immortal
+	
+More could be added in the future, so check the application github frequently.
+
+https://github.com/bitnykk/rl.git
