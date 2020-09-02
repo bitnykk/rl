@@ -27,8 +27,11 @@ Example : /rl tes
 HOW DOES IT WORK
 
 The "rl" script loads at upper command, which shows ingame the text of file named (e.g.) "tes" in "rlfiles" folder.
+
 That way, you can have as many files in "rlfiles" folder as you need and load them very easily in no time !
 Just keeping naming them with 3 letters so the final command is always as simple as : /rl 123
+
+Fot a list of all such files provided (see below) do : /showfile rllist
 
 HOW TO CUSTOMIZE
 
@@ -36,7 +39,7 @@ You can edit any file into "rlfiles" to modify the shown text at will.
 
 You also can add any new file into that folder to cover another missing need :
 Just create a new 3 letters named textfile (without .txt extention) in folder 
-Type the text you need in it, & there you go !
+Type the text you need in, may be update "rllist.txt" in "text" folder & there you go !
 
 
 ALL FILES PROVIDED
