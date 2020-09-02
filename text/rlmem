@@ -1,9 +1,9 @@
 RL MEMO - command "/rl xyz" - xyz being among :
-Generic = buf sto wai add ass lmn rem pdd
-APF = coc fen 42k pat hac 13n 28w 35e 42a see
-Pande = pin ups tnh ref
-12m = kee mor xan
-Biodome = doo hud bio
-Mercs = bri ota ian
-IS = is1 is2 is3 hez
-Testing = tes
+Generic = <a href='chatcmd:///rl buf'>buf</a> <a href='chatcmd:///rl sto'>sto</a> <a href='chatcmd:///rl wai'>wai</a> <a href='chatcmd:///rl add'>add</a> <a href='chatcmd:///rl ass'>ass</a> <a href='chatcmd:///rl lmn'>lmn</a> <a href='chatcmd:///rl rem'>rem</a> <a href='chatcmd:///rl pdd'>pdd</a>
+APF = <a href='chatcmd:///rl coc'>coc</a> <a href='chatcmd:///rl fen'>fen</a> <a href='chatcmd:///rl 42k'>42k</a> <a href='chatcmd:///rl pat'>pat</a> <a href='chatcmd:///rl hac'>hac</a> <a href='chatcmd:///rl 13n'>13n</a> <a href='chatcmd:///rl 28w'>28w</a> <a href='chatcmd:///rl 35e'>35e</a> <a href='chatcmd:///rl 42a'>42a</a> <a href='chatcmd:///rl see'>see</a>
+Pande = <a href='chatcmd:///rl pin'>pin</a> <a href='chatcmd:///rl ups'>ups</a> <a href='chatcmd:///rl tnh'>tnh</a> <a href='chatcmd:///rl ref'>ref</a>
+12m = <a href='chatcmd:///rl kee'>kee</a> <a href='chatcmd:///rl mor'>mor</a> <a href='chatcmd:///rl xan'>xan</a>
+Biodome = <a href='chatcmd:///rl doo'>doo</a> <a href='chatcmd:///rl hud'>hud</a> <a href='chatcmd:///rl bio'>bio</a>
+Mercs = <a href='chatcmd:///rl bri'>bri</a> <a href='chatcmd:///rl ota'>ota</a> <a href='chatcmd:///rl ian'>ian</a>
+IS = <a href='chatcmd:///rl is1'>is1</a> <a href='chatcmd:///rl is2'>is2</a> <a href='chatcmd:///rl is3'>is3</a> <a href='chatcmd:///rl hez'>hez</a>
+Testing = <a href='chatcmd:///rl tes'>test</a>
