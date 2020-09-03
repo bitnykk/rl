@@ -31,7 +31,7 @@ The "rl" script loads at upper command, which shows ingame the text of file name
 That way, you can have as many files in "rlfiles" folder as you need and load them very easily in no time !
 Just keeping naming them with 3 letters so the final command is always as simple as : /rl 123
 
-Fot a list of all such files provided (see below) do : /showfile rlmem
+For a clickable list of all files already provided (see below) do : /showfile rlmem
 
 HOW TO CUSTOMIZE
 
