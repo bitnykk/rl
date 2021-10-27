@@ -1,28 +1,35 @@
 https://github.com/bitnykk/rl.git
 
+
 WHAT IS RL FOR AO
 
 It's a set of customizable scriptbase for Anarchy Online.
 Its intend is to help Raid Leaders to communicate fast & efficiently towards raid members.
 
+
 HOW TO INSTALL
 
-Once the archive is downloaded, extract into your AO client "script" folder.
+Once the archive is downloaded, extract into your AO client "scripts" folder.
 It could be at same location than your AO client executable.
 
 But it could also be under system's "Users" tree folder, e.g. within "Appdata/Local".
 Search for a Funcom folder and downer inside, for the correct client ID folder.
 
 As soon you located the "script" folder your AO client uses, unpack the archive.
-You should obtain this README, a file names "rl" and a folder named "rlfiles".
+You should obtain this README, several files (rl, b, k, m) & a folder named "rlfiles".
+
 
 HOW TO USE
 
 If installed correctly, you can use it in any ingame channel.
 It could be raidbot, raid channel, team channel, org channel, vicinity, etc.
 
-You just type exactly /rl followed by a space and then 3 letters for the message part.
-Example : /rl tes
+You first have 3 simple scripts to order to block (b), mezz (m) or kill (k) targetted mob.
+Example: /k
+
+You then have advanced scripts by /rl followed by space & then 3 letters for the message part.
+Example: /rl tes
+
 
 HOW DOES IT WORK
 
@@ -32,6 +39,7 @@ That way, you can have as many files in "rlfiles" folder as you need and load th
 Just keeping naming them with 3 letters so the final command is always as simple as : /rl 123
 
 For a clickable list of all files already provided (see below) do : /showfile rlmem
+
 
 HOW TO CUSTOMIZE
 
